@@ -1,6 +1,6 @@
 CodeAlpha Web Scraping Task
 
-📌 Task Overview
+ Task Overview
 
 This project was completed as part of the CodeAlpha Data Analytics Internship (Task 1 — Web Scraping).
 The goal was to extract data from a public website and create a structured dataset for further analysis.
